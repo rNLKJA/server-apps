@@ -1,0 +1,70 @@
+{
+  "homebrew_version": "3.6.20-143-g10845a1",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "share/man/man1/tmux.1"
+  ],
+  "time": 1678427211,
+  "source_modified_time": 1654774350,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "ca-certificates",
+      "version": "2023-01-10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openssl@1.1",
+      "version": "1.1.1t",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libevent",
+      "version": "2.1.12",
+      "declared_directly": true
+    },
+    {
+      "full_name": "ncurses",
+      "version": "6.4",
+      "declared_directly": true
+    },
+    {
+      "full_name": "utf8proc",
+      "version": "2.8.0",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "3.3a",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/tmux.rb",
+    "tap_git_head": "29a0c5a67a2ab32cf4f587740531cff2480f3dcb",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12.6",
+    "cpu_family": "penryn",
+    "xcode": "14.1",
+    "clt": "14.1.0.0.1.1666437224",
+    "preferred_perl": "5.30"
+  }
+}

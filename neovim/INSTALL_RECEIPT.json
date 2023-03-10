@@ -1,0 +1,91 @@
+{
+  "homebrew_version": "3.6.20-184-gcdf58fe",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "share/nvim/runtime/filetype.vim",
+    "share/nvim/runtime/lua/vim/filetype.lua"
+  ],
+  "time": 1678427760,
+  "source_modified_time": 1675344803,
+  "compiler": "clang",
+  "aliases": [
+    "nvim"
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "gettext",
+      "version": "0.21.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "unibilium",
+      "version": "2.1.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libtermkey",
+      "version": "0.22",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libuv",
+      "version": "1.44.2",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libvterm",
+      "version": "0.3.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "luajit",
+      "version": "2.1.0-beta3-20230221.4",
+      "declared_directly": true
+    },
+    {
+      "full_name": "luv",
+      "version": "1.44.2-1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "msgpack",
+      "version": "6.0.0",
+      "declared_directly": true
+    },
+    {
+      "full_name": "tree-sitter",
+      "version": "0.20.7",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "0.8.3",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/neovim.rb",
+    "tap_git_head": "29a0c5a67a2ab32cf4f587740531cff2480f3dcb",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 12.6",
+    "cpu_family": "penryn",
+    "xcode": "14.1",
+    "clt": "14.1.0.0.1.1666437224",
+    "preferred_perl": "5.30"
+  }
+}
